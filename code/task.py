@@ -16,7 +16,7 @@ plt.gca().spines['right'].set_visible(False)
 # save the plot with a timestamp
 import datetime
 now = datetime.datetime.now()
-plt.savefig('../figures/random_walk_' + str(now) + '.png')
+plt.savefig('figures/random_walk_' + str(now) + '.png')
 
 
 # %%
