@@ -1,0 +1,408 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  16 NOV 2023 14:30
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/nicklaberge/Dropbox/Mac/Desktop/example-project/writing/coverletter.tex
+(/Users/nicklaberge/Dropbox/Mac/Desktop/example-project/writing/coverletter.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/letter.cls
+Document Class: letter 2014/09/29 v1.2z Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\longindentation=\dimen102
+\indentedwidth=\dimen103
+\labelcount=\count80
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen104
+\PaperHeight=\dimen105
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/mdwtools/mdwlist.sty
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen106
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count81
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count82
+\leftroot@=\count83
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count84
+\DOTSCASE@=\count85
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count86
+\c@MaxMatrixCols=\count87
+\dotsspace@=\muskip10
+\c@parentequation=\count88
+\dspbrk@lvl=\count89
+\tag@help=\toks15
+\row@=\count90
+\column@=\count91
+\maxfields@=\count92
+\andhelp@=\toks16
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks17
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package atveryend Info: \makelabels detected. Moving labels
+(atveryend)             from `.aux' file to \AtEndDocument.
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen115
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count95
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count96
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen116
+\Fld@menulength=\count97
+\Field@Width=\dimen117
+\Fld@charsize=\dimen118
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count98
+\c@Item=\count99
+\c@Hfootnote=\count100
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count101
+\c@bookmark@seq@number=\count102
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip44
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen121
+\ar@mcellbox=\box29
+\extrarowheight=\dimen122
+\NC@list=\toks20
+\extratabsurround=\skip45
+\backup@length=\skip46
+\ar@cellbox=\box30
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen123
+\WF@size=\dimen124
+\c@WF@wrappedlines=\count103
+\WF@box=\box31
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@tempdima=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = undefined.
+\c@caption@flags=\count104
+\c@ContinuedFloat=\count105
+Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip49
+\enit@outerparindent=\dimen132
+\enit@toks=\toks22
+\enit@inbox=\box32
+\enit@count@id=\count106
+\enitdp@description=\count107
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+\everycr=\toks23
+\minrowclearance=\skip50
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count108
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+
+LaTeX Warning: Unused global option(s):
+    [11.5pt].
+
+(/Users/nicklaberge/Dropbox/Mac/Desktop/example-project/writing/coverletter.aux)
+\openout1 = `coverletter.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring OFF on input line 30.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count109
+)
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
+ (/Users/nicklaberge/Dropbox/Mac/Desktop/example-project/writing/coverletter.out) (/Users/nicklaberge/Dropbox/Mac/Desktop/example-project/writing/coverletter.out)
+\@outlinefile=\write3
+\openout3 = `coverletter.out'.
+
+ (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen133
+\scratchbox=\box34
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen134
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: File `Boulder_one_line.eps' not found on input line 37.
+
+Package epstopdf Info: Source file: <Boulder_one_line.eps>
+(epstopdf)             Output file: <Boulder_one_line-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-11-16 14:22:31
+(epstopdf)                    size: 14565 bytes
+(epstopdf)             Command: <repstopdf --outfile=Boulder_one_line-eps-converted-to.pdf Boulder_one_line.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+<Boulder_one_line-eps-converted-to.pdf, id=4, 530.98375pt x 80.3pt>
+File: Boulder_one_line-eps-converted-to.pdf Graphic file (type pdf)
+<use Boulder_one_line-eps-converted-to.pdf>
+Package pdftex.def Info: Boulder_one_line-eps-converted-to.pdf  used on input line 37.
+(pdftex.def)             Requested size: 216.81pt x 32.78842pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 34--47
+ [] 
+ []
+
+[1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/nicklaberge/Dropbox/Mac/Desktop/example-project/writing/Boulder_one_line-eps-converted-to.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
+ [2]
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 75.
+ (/Users/nicklaberge/Dropbox/Mac/Desktop/example-project/writing/coverletter.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
+Package rerunfilecheck Info: File `coverletter.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
+ ) 
+Here is how much of TeX's memory you used:
+ 8099 strings out of 492616
+ 121531 string characters out of 6129482
+ 228664 words of memory out of 5000000
+ 11933 multiletter control sequences out of 15000+600000
+ 5993 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,16n,38p,291b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on /Users/nicklaberge/Dropbox/Mac/Desktop/example-project/writing/coverletter.pdf (2 pages, 53418 bytes).
+PDF statistics:
+ 34 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
